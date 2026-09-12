@@ -1,4 +1,4 @@
-# Curso: RAG en producción, explicado desde un sistema real
+# Curso: RAG explicado desde un sistema real
 
 > Material de estudio construido sobre el RAG del chatbot de AMICANA.
 > No es teoría abstracta: cada concepto se explica con el código que efectivamente
